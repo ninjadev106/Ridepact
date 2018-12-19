@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RidePact</string>
+    <string name="refreshing">Refreshing</string>
+    <string name="downloading_html">Downloading html...</string>
+    <string name="downloading_video">Downloading video...</string>
+    <string name="please_wait">Please wait</string>
+    <string name="loading_video">Loading video…</string>
+
+</resources>
